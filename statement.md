@@ -1,10 +1,10 @@
-# Project Statement: Tic Tac Toe
+#Project Statement: Tic Tac Toe
 
-## Problem Statement
+##Problem Statement
 
 Tic Tac Toe is a game almost everyone knows, but playing it usually needs pen and paper, and people often argue over whether someone actually won or whether a move was legal. The goal of this project is to build a small program that takes care of all of that automatically. It sets up the board, keeps track of whose turn it is, rejects moves that aren't allowed, and announces the result at the end. It's also a good beginner exercise for understanding how a simple game loop works in Python.
 
-## Scope of the Project
+##Scope of the Project
 
 **What the project covers:**
 
@@ -22,13 +22,13 @@ Tic Tac Toe is a game almost everyone knows, but playing it usually needs pen an
 - A graphical interface
 - Saving scores or game history between runs
 
-## Target Users
+##Target Users
 
 - Two people who want a quick game without setting anything up
 - Beginner programmers and students who want to read a simple, complete example of a Python game
 - Teachers or learners looking for a small project that shows lists, functions, loops and conditionals working together
 
-## High-Level Features
+##High-Level Features
 
 - Custom player names shown throughout the game
 - Numbered board that gets redrawn after every move
